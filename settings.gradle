@@ -1,1 +1,3 @@
-include ':app', ':CPaaS-SDK'
+include ':app', ':CPaaS-SDK', ':AppRTC', ':WebRTC'
+project(':AppRTC').projectDir = new File('WebRTCSupport/AppRTC')
+project(':WebRTC').projectDir = new File('WebRTCSupport/WebRTC')

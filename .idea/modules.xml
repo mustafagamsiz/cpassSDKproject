@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebRTCSupport/AppRTC/AppRTC.iml" filepath="$PROJECT_DIR$/WebRTCSupport/AppRTC/AppRTC.iml" />
       <module fileurl="file://$PROJECT_DIR$/CPaaS-SDK/CPaaS-SDK.iml" filepath="$PROJECT_DIR$/CPaaS-SDK/CPaaS-SDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/CPasSSDKProject.iml" filepath="$PROJECT_DIR$/CPasSSDKProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebRTCSupport/WebRTC/WebRTC.iml" filepath="$PROJECT_DIR$/WebRTCSupport/WebRTC/WebRTC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
